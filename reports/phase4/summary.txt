@@ -1,0 +1,3 @@
+Phase 4 forecasting completed.
+Top categories modeled: health_beauty, watches_gifts, bed_bath_table
+Average MAPE: 297.38%

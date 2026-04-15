@@ -1,0 +1,3 @@
+Phase 3 cohort and RFM analysis generated successfully.
+Churned customers (90+ days inactive): 86772
+Largest RFM segment: Potential

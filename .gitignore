@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Data artifacts
+/dataset/
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+
+# Streamlit
+.streamlit/

@@ -1,0 +1,3 @@
+Phase 2 analysis generated successfully.
+Top categories considered: 10
+Price vs review correlation: -0.0041

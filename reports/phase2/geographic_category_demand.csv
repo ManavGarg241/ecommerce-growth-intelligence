@@ -1,0 +1,1411 @@
+customer_state,customer_city,category,orders,gmv_brl
+SP,sao paulo,health_beauty,1533,212153.43
+SP,sao paulo,bed_bath_table,1653,199568.16
+SP,sao paulo,watches_gifts,778,175620.82
+SP,sao paulo,sports_leisure,1266,164489.06
+SP,sao paulo,computers_accessories,1004,161271.14
+SP,sao paulo,housewares,1107,125408.74
+SP,sao paulo,furniture_decor,998,119724.84
+RJ,rio de janeiro,watches_gifts,436,100296.25
+RJ,rio de janeiro,health_beauty,523,96777.26
+RJ,rio de janeiro,bed_bath_table,726,94343.04
+RJ,rio de janeiro,sports_leisure,513,82352.13
+SP,sao paulo,toys,610,79030.21
+RJ,rio de janeiro,computers_accessories,462,76027.82
+SP,sao paulo,cool_stuff,430,74561.28
+SP,sao paulo,perfumery,496,68630.78
+RJ,rio de janeiro,furniture_decor,483,68296.93
+SP,sao paulo,auto,501,65572.89
+SP,sao paulo,baby,456,59964.26
+RJ,rio de janeiro,housewares,412,54426.53
+SP,sao paulo,garden_tools,396,52683.03
+RJ,rio de janeiro,toys,327,50352.64
+RJ,rio de janeiro,cool_stuff,250,49806.97
+SP,sao paulo,office_furniture,184,49380.28
+SP,sao paulo,telephony,570,44211.53
+RJ,rio de janeiro,garden_tools,267,42848.2
+MG,belo horizonte,bed_bath_table,297,39412.48
+MG,belo horizonte,health_beauty,249,38799.74
+RJ,rio de janeiro,office_furniture,137,38626.46
+SP,sao paulo,stationery,348,37146.89
+DF,brasilia,watches_gifts,143,35589.67
+DF,brasilia,health_beauty,223,34567.72
+SP,sao paulo,pet_shop,265,33660.35
+SP,sao paulo,unknown,397,32556.42
+RJ,rio de janeiro,auto,184,32329.08
+RJ,rio de janeiro,perfumery,215,31330.5
+MG,belo horizonte,computers_accessories,219,29382.11
+RJ,rio de janeiro,baby,170,28563.05
+DF,brasilia,computers_accessories,136,28413.11
+SP,sao paulo,construction_tools_construction,129,27895.4
+MG,belo horizonte,sports_leisure,194,27746.7
+SP,sao paulo,small_appliances,108,27714.37
+MG,belo horizonte,housewares,205,27526.28
+SP,sao paulo,consoles_games,174,27424.36
+MG,belo horizonte,watches_gifts,124,27302.92
+DF,brasilia,sports_leisure,192,27285.97
+SP,sao paulo,fashion_bags_accessories,295,26594.26
+SP,sao paulo,musical_instruments,98,25871.48
+PR,curitiba,health_beauty,126,25596.29
+SP,sao paulo,luggage_accessories,142,24632.27
+RJ,rio de janeiro,home_appliances_2,30,24090.34
+MG,belo horizonte,furniture_decor,183,23943.63
+BA,salvador,health_beauty,127,23894.58
+SP,campinas,health_beauty,134,22911.81
+SP,sao paulo,electronics,332,22581.68
+SP,sao paulo,computers,17,21474.89
+BA,salvador,sports_leisure,105,21390.69
+PR,curitiba,sports_leisure,134,21126.47
+RS,porto alegre,bed_bath_table,156,21048.8
+RJ,rio de janeiro,stationery,157,20752.64
+RJ,rio de janeiro,telephony,203,20450.44
+MG,belo horizonte,toys,133,20310.66
+DF,brasilia,bed_bath_table,170,20136.02
+DF,brasilia,auto,103,19929.44
+PR,curitiba,computers_accessories,126,19543.92
+RJ,rio de janeiro,electronics,224,19370.69
+SP,campinas,bed_bath_table,137,19148.77
+RS,porto alegre,computers_accessories,106,18516.79
+CE,fortaleza,health_beauty,66,18434.2
+BA,salvador,watches_gifts,79,18254.34
+MG,belo horizonte,auto,102,18189.58
+PR,curitiba,watches_gifts,87,18087.64
+SP,campinas,watches_gifts,72,17942.35
+SP,sao paulo,home_appliances_2,37,17653.11
+SP,guarulhos,watches_gifts,79,17526.0
+RJ,niteroi,watches_gifts,50,17495.38
+BA,salvador,computers_accessories,81,16860.27
+RS,porto alegre,furniture_decor,121,16809.67
+RS,porto alegre,health_beauty,104,16693.91
+RJ,rio de janeiro,fixed_telephony,15,16274.16
+DF,brasilia,housewares,121,16046.18
+RS,porto alegre,sports_leisure,106,15960.69
+PR,curitiba,bed_bath_table,118,15777.35
+PR,curitiba,furniture_decor,120,15744.53
+MG,belo horizonte,cool_stuff,82,15508.91
+DF,brasilia,furniture_decor,109,15378.69
+RJ,rio de janeiro,pet_shop,103,15278.23
+SP,guarulhos,health_beauty,124,15011.51
+CE,fortaleza,watches_gifts,70,14976.06
+GO,goiania,health_beauty,81,14713.42
+SP,guarulhos,bed_bath_table,123,14702.81
+MG,belo horizonte,baby,94,14357.84
+SP,campinas,sports_leisure,113,14200.4
+RS,porto alegre,watches_gifts,67,14176.72
+PE,recife,health_beauty,76,14135.95
+DF,brasilia,cool_stuff,79,14113.64
+GO,goiania,watches_gifts,51,13945.69
+DF,brasilia,toys,91,13849.54
+RJ,rio de janeiro,musical_instruments,39,13843.59
+RJ,rio de janeiro,unknown,161,13718.72
+RJ,niteroi,computers_accessories,73,13709.82
+SP,campinas,computers_accessories,100,13511.32
+PA,belem,health_beauty,49,13475.18
+MG,belo horizonte,garden_tools,96,13443.66
+PE,recife,watches_gifts,55,13442.28
+MG,belo horizonte,perfumery,84,12975.89
+RJ,rio de janeiro,small_appliances,39,12819.6
+RS,porto alegre,cool_stuff,58,12817.9
+BA,salvador,bed_bath_table,91,12704.24
+SP,santos,bed_bath_table,85,12629.61
+SP,sao paulo,home_appliances,126,12289.77
+RS,porto alegre,housewares,94,12280.32
+DF,brasilia,small_appliances,23,12247.87
+RJ,rio de janeiro,air_conditioning,39,12121.52
+SP,guarulhos,cool_stuff,49,12095.63
+SP,sao paulo,home_confort,74,11992.57
+RJ,rio de janeiro,construction_tools_construction,48,11859.37
+GO,goiania,cool_stuff,19,11717.92
+BA,salvador,furniture_decor,85,11631.16
+BA,salvador,auto,46,11576.07
+SP,jundiai,bed_bath_table,73,11548.78
+PR,curitiba,housewares,93,11489.32
+RJ,rio de janeiro,furniture_living_room,56,11463.36
+DF,brasilia,perfumery,82,11370.67
+RJ,rio de janeiro,consoles_games,72,11302.94
+SP,campinas,furniture_decor,95,11271.73
+SP,sao paulo,agro_industry_and_commerce,39,11225.55
+PR,curitiba,toys,79,10827.33
+SP,sao bernardo do campo,health_beauty,92,10681.27
+DF,brasilia,garden_tools,45,10668.42
+SP,sao paulo,kitchen_dining_laundry_garden_furniture,49,10600.44
+RS,porto alegre,garden_tools,57,10584.09
+SP,sao bernardo do campo,watches_gifts,56,10579.64
+SP,guarulhos,computers_accessories,81,10480.9
+SP,guarulhos,housewares,78,10332.37
+SP,santo andre,bed_bath_table,75,10302.94
+SP,sao paulo,small_appliances_home_oven_and_coffee,20,10231.72
+DF,brasilia,baby,66,10210.6
+RJ,niteroi,health_beauty,60,9969.84
+SP,sao paulo,furniture_living_room,67,9904.46
+SP,guarulhos,auto,47,9892.57
+SC,florianopolis,housewares,47,9761.64
+GO,goiania,bed_bath_table,71,9700.47
+RJ,rio de janeiro,luggage_accessories,60,9670.67
+SP,osasco,health_beauty,72,9646.06
+PR,curitiba,cool_stuff,58,9608.39
+MG,belo horizonte,pet_shop,59,9596.25
+RJ,rio de janeiro,fashion_bags_accessories,89,9592.22
+SP,campinas,housewares,84,9585.95
+RJ,niteroi,sports_leisure,70,9565.88
+MA,sao luis,computers_accessories,35,9563.3
+PR,curitiba,auto,48,9547.21
+RJ,niteroi,bed_bath_table,86,9522.32
+SP,campinas,auto,44,9490.48
+SP,santos,watches_gifts,32,9489.64
+SP,santos,furniture_decor,63,9486.67
+SP,sao paulo,home_construction,59,9436.3
+SP,guarulhos,furniture_decor,77,9435.03
+MS,campo grande,housewares,17,9405.18
+RJ,rio de janeiro,computers,10,9167.57
+AL,maceio,watches_gifts,27,9117.69
+GO,goiania,housewares,46,9102.19
+RS,porto alegre,telephony,56,9098.2
+SP,guarulhos,sports_leisure,83,9045.89
+BA,salvador,housewares,65,9033.87
+SP,sao paulo,audio,64,8949.92
+SP,osasco,bed_bath_table,76,8864.1
+SP,sao bernardo do campo,bed_bath_table,79,8707.04
+RJ,nova iguacu,watches_gifts,30,8694.82
+RS,porto alegre,baby,47,8690.25
+SC,florianopolis,computers_accessories,59,8668.15
+MG,belo horizonte,telephony,90,8578.91
+SP,santo andre,health_beauty,78,8525.08
+RJ,sao goncalo,watches_gifts,39,8514.73
+SP,sao paulo,books_general_interest,70,8510.36
+SP,ribeirao preto,bed_bath_table,64,8508.6
+SP,campinas,cool_stuff,44,8482.69
+SP,sao bernardo do campo,furniture_decor,74,8433.58
+MG,juiz de fora,health_beauty,42,8424.53
+SP,santos,health_beauty,63,8399.71
+PB,joao pessoa,health_beauty,35,8389.02
+MG,juiz de fora,cool_stuff,22,8388.91
+PR,curitiba,baby,43,8376.0
+PE,recife,sports_leisure,52,8374.58
+SP,sao jose dos campos,sports_leisure,43,8371.9
+SP,sao bernardo do campo,sports_leisure,68,8342.64
+SP,sorocaba,sports_leisure,52,8320.59
+SP,osasco,furniture_decor,50,8289.97
+RJ,rio de janeiro,home_appliances,52,8215.08
+PA,belem,watches_gifts,37,8194.16
+BA,salvador,telephony,74,8168.75
+SP,sao bernardo do campo,housewares,68,8164.79
+MA,sao luis,health_beauty,42,8144.39
+SP,santo andre,watches_gifts,50,8116.91
+SC,florianopolis,health_beauty,53,8074.38
+PI,teresina,auto,16,7904.43
+PA,belem,unknown,15,7868.16
+SP,sao jose dos campos,auto,40,7834.64
+RJ,niteroi,furniture_decor,53,7807.98
+SP,sao paulo,fixed_telephony,36,7791.24
+SC,florianopolis,watches_gifts,27,7789.21
+SP,osasco,sports_leisure,58,7768.29
+PE,recife,computers_accessories,47,7729.46
+PB,joao pessoa,watches_gifts,21,7724.74
+DF,brasilia,telephony,85,7718.73
+SP,campinas,toys,68,7699.74
+SP,sao jose dos campos,health_beauty,66,7677.32
+SP,sorocaba,health_beauty,48,7675.9
+SP,sao paulo,construction_tools_safety,22,7488.66
+MG,belo horizonte,office_furniture,33,7488.48
+MG,juiz de fora,watches_gifts,37,7466.09
+PA,belem,computers_accessories,45,7438.88
+BA,salvador,garden_tools,54,7436.28
+MG,belo horizonte,musical_instruments,16,7421.54
+SP,sao paulo,air_conditioning,34,7417.74
+SP,sao paulo,food,103,7387.94
+SP,ribeirao preto,health_beauty,43,7373.83
+MG,uberlandia,health_beauty,39,7371.58
+SP,sao paulo,furniture_bedroom,26,7363.35
+RJ,niteroi,housewares,69,7360.17
+MG,belo horizonte,stationery,65,7341.16
+SP,jundiai,watches_gifts,28,7325.41
+SP,sorocaba,computers_accessories,47,7287.38
+SP,sorocaba,bed_bath_table,64,7281.34
+MG,uberlandia,sports_leisure,36,7199.87
+PR,londrina,watches_gifts,25,7149.33
+RS,porto alegre,toys,45,7110.42
+SP,sao jose do rio preto,watches_gifts,20,7095.88
+CE,fortaleza,sports_leisure,52,7082.56
+SP,sorocaba,furniture_decor,52,7033.27
+RJ,nova iguacu,furniture_decor,34,7024.99
+SP,jundiai,cool_stuff,20,6938.02
+CE,fortaleza,computers_accessories,42,6934.88
+PA,belem,sports_leisure,30,6930.24
+MS,campo grande,computers_accessories,30,6915.21
+SP,sao jose dos campos,computers_accessories,57,6901.16
+SP,osasco,watches_gifts,36,6837.32
+SP,santo andre,computers_accessories,47,6781.48
+SP,santo andre,sports_leisure,60,6779.26
+AL,maceio,health_beauty,32,6655.24
+SP,bauru,sports_leisure,30,6646.65
+RJ,nova iguacu,garden_tools,29,6613.32
+CE,fortaleza,auto,24,6612.69
+SP,barueri,bed_bath_table,45,6599.78
+RJ,rio de janeiro,kitchen_dining_laundry_garden_furniture,28,6570.21
+PB,joao pessoa,computers_accessories,24,6567.98
+RJ,nova iguacu,bed_bath_table,50,6554.48
+SP,sao bernardo do campo,computers_accessories,54,6540.21
+SC,florianopolis,sports_leisure,46,6536.55
+RS,porto alegre,perfumery,36,6512.87
+SP,santo andre,furniture_decor,58,6512.72
+SP,sao paulo,industry_commerce_and_business,30,6407.83
+PA,belem,furniture_decor,29,6404.34
+BA,salvador,cool_stuff,36,6375.33
+PE,recife,furniture_decor,33,6337.58
+GO,goiania,sports_leisure,47,6328.2
+MG,belo horizonte,unknown,74,6321.57
+RN,natal,watches_gifts,27,6294.07
+SP,jundiai,baby,17,6268.77
+SP,jundiai,furniture_decor,43,6263.1
+PA,belem,baby,20,6220.34
+MS,campo grande,sports_leisure,28,6212.38
+RJ,sao goncalo,garden_tools,31,6169.68
+SP,osasco,auto,31,6125.3
+SP,jundiai,health_beauty,45,6121.59
+BA,salvador,toys,35,6120.53
+SE,aracaju,health_beauty,28,6112.47
+SP,praia grande,bed_bath_table,42,6083.03
+SP,santos,sports_leisure,51,6056.02
+ES,vitoria,bed_bath_table,44,6031.1
+RJ,niteroi,perfumery,37,6029.03
+DF,brasilia,pet_shop,35,6019.0
+SP,ribeirao preto,computers_accessories,42,6000.49
+SC,florianopolis,bed_bath_table,49,5979.11
+SP,campinas,baby,41,5976.95
+SP,campinas,garden_tools,52,5968.69
+BA,salvador,baby,30,5954.58
+MG,belo horizonte,consoles_games,26,5895.02
+SP,mogi das cruzes,watches_gifts,31,5883.18
+CE,fortaleza,furniture_decor,40,5879.48
+PE,jaboatao dos guararapes,health_beauty,27,5878.79
+MG,uberaba,health_beauty,15,5857.35
+GO,goiania,auto,21,5805.87
+RJ,rio de janeiro,audio,29,5793.65
+DF,brasilia,stationery,45,5752.21
+CE,fortaleza,cool_stuff,23,5709.92
+MG,contagem,sports_leisure,46,5706.64
+PI,teresina,health_beauty,29,5701.33
+SP,jundiai,computers_accessories,33,5639.6
+RJ,rio de janeiro,agro_industry_and_commerce,17,5617.71
+SP,piracicaba,bed_bath_table,41,5591.69
+SP,santos,computers_accessories,42,5586.23
+ES,vila velha,watches_gifts,25,5581.55
+RJ,duque de caxias,watches_gifts,21,5578.4
+SP,campinas,perfumery,46,5561.37
+MG,juiz de fora,bed_bath_table,36,5558.27
+SC,florianopolis,cool_stuff,14,5521.52
+SC,joinville,health_beauty,29,5506.3
+SP,sao bernardo do campo,auto,38,5491.85
+SP,taubate,health_beauty,36,5473.09
+SP,sao jose do rio preto,bed_bath_table,39,5461.89
+RJ,rio de janeiro,drinks,30,5458.23
+SP,santo andre,housewares,51,5455.11
+SP,piracicaba,furniture_decor,24,5446.93
+SP,sao bernardo do campo,toys,38,5424.19
+SP,campinas,office_furniture,24,5416.22
+RS,santa maria,health_beauty,16,5403.96
+MT,cuiaba,health_beauty,33,5373.86
+MS,campo grande,health_beauty,24,5372.62
+PR,maringa,watches_gifts,18,5372.61
+SP,sao paulo,signaling_and_security,35,5336.68
+SP,ribeirao preto,garden_tools,14,5329.23
+RJ,sao goncalo,bed_bath_table,43,5324.9
+SP,sao jose dos campos,watches_gifts,30,5322.33
+SP,indaiatuba,health_beauty,28,5300.67
+SP,mogi das cruzes,sports_leisure,37,5281.68
+SC,florianopolis,furniture_decor,39,5274.75
+SP,sao jose do rio preto,sports_leisure,31,5266.08
+PR,londrina,cool_stuff,12,5258.76
+MG,juiz de fora,sports_leisure,27,5252.91
+MG,contagem,auto,22,5240.4
+MG,belo horizonte,construction_tools_construction,23,5220.03
+SP,sao jose dos campos,furniture_decor,49,5202.95
+GO,goiania,computers_accessories,37,5196.59
+SP,ribeirao preto,watches_gifts,25,5195.23
+CE,fortaleza,telephony,46,5188.22
+MG,uberlandia,bed_bath_table,35,5187.91
+SP,sao paulo,construction_tools_lights,34,5174.84
+RJ,nova iguacu,cool_stuff,26,5139.7
+PR,cascavel,furniture_decor,22,5120.98
+SP,sao jose dos campos,bed_bath_table,44,5107.4
+SP,jundiai,sports_leisure,45,5104.54
+SP,osasco,housewares,54,5076.49
+SP,ribeirao preto,housewares,39,5063.5
+SP,guarulhos,toys,32,5055.91
+ES,vitoria,watches_gifts,25,5005.18
+SP,piracicaba,watches_gifts,20,4992.35
+MG,belo horizonte,electronics,55,4955.81
+SP,sao jose dos campos,cool_stuff,25,4955.58
+CE,fortaleza,bed_bath_table,39,4929.9
+BA,salvador,office_furniture,20,4919.34
+ES,vitoria,health_beauty,35,4912.43
+RJ,duque de caxias,garden_tools,22,4911.62
+SP,sorocaba,auto,21,4904.22
+RJ,campos dos goytacazes,computers_accessories,20,4900.38
+SC,florianopolis,auto,25,4896.09
+MG,contagem,health_beauty,38,4891.58
+CE,fortaleza,perfumery,27,4888.75
+SP,mogi das cruzes,bed_bath_table,29,4860.29
+SP,sao paulo,drinks,66,4858.21
+SP,mogi das cruzes,cool_stuff,18,4827.68
+RJ,niteroi,cool_stuff,28,4820.38
+SP,campinas,stationery,40,4810.24
+ES,vila velha,sports_leisure,33,4779.62
+SP,indaiatuba,bed_bath_table,38,4758.27
+SP,barueri,computers_accessories,25,4755.09
+SP,praia grande,health_beauty,38,4752.17
+PI,teresina,watches_gifts,22,4739.17
+SP,barueri,sports_leisure,33,4731.37
+MG,montes claros,health_beauty,32,4691.51
+PR,curitiba,garden_tools,39,4691.25
+MG,belo horizonte,small_appliances,14,4688.02
+ES,serra,watches_gifts,21,4658.99
+SP,sao jose do rio preto,housewares,24,4657.91
+PI,teresina,sports_leisure,20,4647.79
+SP,ribeirao preto,sports_leisure,39,4647.77
+SP,caieiras,watches_gifts,13,4634.39
+SP,sao jose dos campos,toys,38,4616.8
+GO,goiania,furniture_decor,36,4614.92
+SP,piracicaba,computers_accessories,29,4612.75
+PR,curitiba,perfumery,37,4585.5
+SP,mogi das cruzes,garden_tools,15,4571.7
+SP,maua,watches_gifts,24,4565.7
+PR,londrina,health_beauty,25,4536.68
+BA,feira de santana,watches_gifts,16,4508.79
+DF,brasilia,fashion_bags_accessories,41,4474.4
+GO,goiania,garden_tools,26,4472.95
+RJ,rio de janeiro,home_construction,26,4472.09
+PE,recife,cool_stuff,22,4471.5
+GO,goiania,baby,24,4470.36
+RJ,macae,watches_gifts,19,4468.3
+SP,taboao da serra,bed_bath_table,41,4460.19
+SP,maua,bed_bath_table,40,4458.43
+MT,cuiaba,garden_tools,14,4458.14
+SP,sao carlos,watches_gifts,12,4454.47
+RJ,sao goncalo,sports_leisure,26,4452.44
+SP,sorocaba,watches_gifts,24,4433.41
+SP,sao paulo,market_place,36,4400.63
+SP,guarulhos,garden_tools,37,4396.99
+MG,belo horizonte,fashion_bags_accessories,49,4390.73
+PA,belem,auto,19,4371.3
+RN,natal,health_beauty,23,4370.25
+SP,maua,health_beauty,38,4354.69
+RS,porto alegre,auto,38,4354.54
+SP,barueri,health_beauty,32,4346.34
+SP,carapicuiba,bed_bath_table,49,4346.26
+SP,osasco,perfumery,33,4309.16
+RJ,nova iguacu,health_beauty,35,4306.12
+PR,londrina,bed_bath_table,33,4305.89
+PR,curitiba,construction_tools_construction,12,4302.85
+GO,goiania,perfumery,34,4272.81
+SP,sorocaba,housewares,44,4262.42
+SP,jundiai,garden_tools,20,4260.38
+SP,campinas,construction_tools_construction,16,4254.72
+SP,sao bernardo do campo,telephony,39,4250.16
+RJ,duque de caxias,bed_bath_table,36,4234.76
+SP,guarulhos,stationery,35,4231.91
+ES,vila velha,computers_accessories,22,4227.44
+RJ,petropolis,computers_accessories,21,4220.66
+SP,franca,furniture_decor,14,4206.84
+SP,araraquara,computers_accessories,17,4203.91
+SP,sorocaba,cool_stuff,22,4196.93
+SP,santo andre,baby,26,4189.5
+SP,santos,garden_tools,22,4181.51
+SP,sao jose dos campos,housewares,42,4162.67
+RS,caxias do sul,computers_accessories,24,4160.89
+RJ,volta redonda,bed_bath_table,29,4146.11
+SP,marilia,watches_gifts,12,4125.21
+ES,vitoria,sports_leisure,23,4111.88
+MG,contagem,watches_gifts,21,4101.91
+SP,santos,housewares,41,4096.91
+MS,campo grande,auto,10,4091.65
+SP,marilia,sports_leisure,20,4075.39
+PR,ponta grossa,watches_gifts,10,4070.1
+MG,uberlandia,housewares,29,4055.23
+SC,florianopolis,baby,11,4054.95
+SP,campinas,musical_instruments,12,4050.56
+SP,cotia,bed_bath_table,31,4048.5
+SP,campinas,consoles_games,19,4038.87
+RS,porto alegre,stationery,36,4000.27
+RJ,rio de janeiro,home_confort,29,3991.32
+SP,rio claro,bed_bath_table,20,3977.85
+PR,curitiba,telephony,60,3973.33
+PR,maringa,housewares,11,3970.83
+SP,campinas,pet_shop,24,3968.8
+MG,juiz de fora,perfumery,17,3957.11
+SP,campinas,telephony,55,3950.78
+MG,contagem,bed_bath_table,28,3946.2
+MA,sao luis,sports_leisure,28,3936.14
+PR,maringa,computers_accessories,20,3923.88
+PB,joao pessoa,sports_leisure,21,3920.05
+GO,goiania,toys,33,3919.94
+RJ,nova friburgo,health_beauty,15,3903.22
+CE,fortaleza,housewares,28,3901.74
+PR,maringa,bed_bath_table,22,3898.04
+SP,osasco,toys,32,3896.41
+BA,salvador,perfumery,31,3891.13
+PE,recife,telephony,45,3885.36
+DF,brasilia,office_furniture,19,3884.4
+SP,sao paulo,food_drink,54,3875.06
+SC,florianopolis,garden_tools,21,3863.57
+SP,ribeirao preto,furniture_decor,32,3863.45
+RJ,campos dos goytacazes,bed_bath_table,26,3861.16
+SP,franca,bed_bath_table,22,3855.06
+RJ,nova iguacu,sports_leisure,29,3852.73
+RS,santa maria,watches_gifts,10,3848.19
+SE,aracaju,cool_stuff,11,3838.5
+SP,diadema,bed_bath_table,37,3833.02
+SP,sorocaba,perfumery,27,3818.04
+PE,olinda,watches_gifts,10,3799.65
+SP,santos,auto,22,3771.71
+RJ,campos dos goytacazes,watches_gifts,13,3771.16
+BA,salvador,fashion_bags_accessories,27,3768.2
+SP,osasco,computers_accessories,40,3763.77
+PR,londrina,telephony,16,3757.47
+AL,maceio,auto,13,3738.05
+PR,maringa,furniture_decor,27,3735.83
+SP,jundiai,pet_shop,21,3722.37
+SP,sao bernardo do campo,garden_tools,32,3711.91
+SP,sao jose dos campos,perfumery,30,3689.19
+SP,santos,cool_stuff,23,3680.13
+SP,osasco,cool_stuff,27,3678.76
+SP,santos,baby,27,3659.77
+SP,sao bernardo do campo,perfumery,35,3650.14
+BA,salvador,unknown,29,3646.15
+SP,santana de parnaiba,sports_leisure,13,3639.18
+MA,sao luis,baby,16,3633.49
+RS,porto alegre,musical_instruments,12,3623.54
+SP,barueri,watches_gifts,22,3621.91
+SP,sao jose do rio preto,health_beauty,24,3618.79
+CE,fortaleza,garden_tools,19,3613.85
+PR,curitiba,musical_instruments,11,3603.18
+SP,piracicaba,health_beauty,27,3597.25
+SP,mogi das cruzes,health_beauty,29,3596.39
+PE,recife,bed_bath_table,26,3586.87
+SP,rio claro,housewares,14,3580.41
+MG,belo horizonte,luggage_accessories,24,3564.37
+MG,montes claros,furniture_decor,19,3561.76
+MG,uberlandia,watches_gifts,20,3559.48
+CE,fortaleza,toys,28,3554.34
+SP,sao caetano do sul,bed_bath_table,32,3552.38
+RJ,sao goncalo,toys,22,3551.82
+SP,guarulhos,perfumery,37,3545.56
+SP,sao paulo,books_technical,41,3544.22
+ES,vitoria,garden_tools,18,3533.53
+MA,sao luis,auto,19,3530.45
+SP,sao bernardo do campo,cool_stuff,22,3529.63
+SC,jaragua do sul,furniture_decor,10,3526.62
+SP,maua,auto,18,3523.26
+SP,guarulhos,telephony,50,3520.74
+MG,uberaba,computers_accessories,17,3515.45
+PA,belem,housewares,15,3497.8
+RS,caxias do sul,furniture_decor,25,3494.2
+SP,guaruja,health_beauty,16,3490.68
+MS,campo grande,bed_bath_table,28,3484.13
+RO,porto velho,health_beauty,13,3478.9
+RS,caxias do sul,baby,10,3471.89
+RJ,niteroi,auto,23,3471.29
+SP,limeira,bed_bath_table,23,3469.57
+RJ,niteroi,toys,29,3463.78
+SP,sao paulo,costruction_tools_garden,29,3463.11
+SP,piracicaba,housewares,29,3452.22
+SP,cotia,cool_stuff,16,3451.61
+BA,salvador,electronics,43,3450.22
+RJ,macae,computers_accessories,19,3449.18
+RJ,rio das ostras,watches_gifts,15,3448.09
+MG,juiz de fora,furniture_decor,27,3446.81
+SP,diadema,health_beauty,26,3446.62
+SP,sao bernardo do campo,baby,27,3434.86
+SP,taboao da serra,auto,14,3434.28
+ES,vila velha,bed_bath_table,27,3434.23
+RJ,sao goncalo,health_beauty,25,3420.28
+RJ,macae,bed_bath_table,28,3416.61
+SP,barueri,furniture_decor,30,3410.4
+RS,porto alegre,office_furniture,15,3407.58
+DF,brasilia,luggage_accessories,23,3402.86
+SP,ribeirao preto,toys,25,3400.54
+RS,santa cruz do sul,furniture_decor,16,3398.74
+SP,santo andre,perfumery,25,3386.18
+MG,juiz de fora,garden_tools,20,3377.19
+SP,sao carlos,bed_bath_table,30,3366.91
+SP,diadema,watches_gifts,11,3360.9
+PR,curitiba,office_furniture,14,3353.36
+MS,campo grande,furniture_decor,22,3340.01
+SP,sao paulo,art,33,3324.26
+RJ,niteroi,garden_tools,26,3322.02
+SP,ribeirao preto,perfumery,18,3306.06
+RJ,barra mansa,sports_leisure,14,3304.6
+MG,ipatinga,health_beauty,16,3304.41
+RS,porto alegre,unknown,26,3300.58
+DF,brasilia,electronics,50,3298.02
+SP,indaiatuba,sports_leisure,25,3297.95
+SP,sao paulo,costruction_tools_tools,11,3297.24
+TO,palmas,health_beauty,14,3294.7
+PE,recife,auto,25,3287.51
+PA,belem,cool_stuff,19,3278.32
+PR,curitiba,small_appliances,13,3273.23
+SP,sao carlos,computers_accessories,15,3270.26
+SP,piracicaba,telephony,15,3262.72
+ES,vitoria,housewares,20,3261.37
+RJ,rio de janeiro,furniture_bedroom,12,3257.47
+PI,teresina,computers_accessories,17,3248.49
+MG,betim,health_beauty,20,3241.39
+RJ,petropolis,housewares,19,3229.64
+SP,taboao da serra,sports_leisure,23,3229.62
+SP,praia grande,sports_leisure,26,3224.1
+DF,brasilia,unknown,46,3222.09
+SE,aracaju,computers_accessories,21,3220.46
+PR,curitiba,stationery,31,3214.74
+SP,guaruja,bed_bath_table,27,3202.18
+SP,limeira,watches_gifts,17,3201.94
+SP,mogi das cruzes,housewares,27,3190.58
+ES,vitoria,furniture_decor,29,3183.74
+PR,curitiba,fashion_bags_accessories,33,3177.37
+MG,contagem,furniture_decor,25,3172.06
+SP,bauru,computers_accessories,16,3168.12
+RJ,marica,watches_gifts,15,3159.29
+SP,guarulhos,baby,27,3155.58
+GO,goiania,unknown,26,3149.09
+SP,santos,office_furniture,10,3143.26
+RS,canoas,sports_leisure,19,3133.74
+SP,barueri,housewares,30,3131.71
+RJ,volta redonda,watches_gifts,12,3127.01
+MG,betim,watches_gifts,21,3110.53
+SP,sao caetano do sul,sports_leisure,32,3109.93
+RS,canoas,furniture_decor,17,3109.19
+MG,uberaba,sports_leisure,18,3103.91
+RJ,niteroi,baby,25,3099.47
+SP,itaquaquecetuba,auto,10,3096.74
+SP,sao jose dos campos,garden_tools,27,3085.08
+PR,londrina,auto,15,3083.59
+RS,pelotas,sports_leisure,13,3069.13
+SP,sao carlos,sports_leisure,22,3068.8
+MT,cuiaba,furniture_decor,17,3067.96
+MG,divinopolis,garden_tools,14,3066.51
+ES,vitoria,telephony,23,3066.45
+RJ,campos dos goytacazes,health_beauty,16,3064.73
+RJ,rio de janeiro,costruction_tools_garden,14,3059.83
+SP,atibaia,sports_leisure,18,3055.36
+RJ,niteroi,stationery,22,3044.36
+RS,novo hamburgo,housewares,10,3043.47
+ES,serra,housewares,18,3041.42
+SP,sao vicente,bed_bath_table,17,3038.7
+MG,juiz de fora,computers_accessories,24,3029.99
+SP,jundiai,toys,22,3028.72
+MG,belo horizonte,home_construction,17,3027.36
+SP,sorocaba,baby,21,3023.89
+SC,florianopolis,pet_shop,14,3020.59
+BA,salvador,pet_shop,22,3017.87
+SP,indaiatuba,furniture_decor,23,3017.0
+SP,cotia,housewares,16,3008.27
+DF,brasilia,musical_instruments,10,3002.24
+RN,natal,auto,10,2997.79
+SP,santo andre,toys,31,2992.03
+SP,sao caetano do sul,computers_accessories,16,2980.09
+BA,feira de santana,health_beauty,16,2979.36
+MG,uberaba,watches_gifts,12,2976.65
+SP,mogi das cruzes,furniture_decor,27,2970.52
+RJ,sao goncalo,cool_stuff,18,2964.66
+SP,santo andre,office_furniture,15,2963.29
+PE,recife,toys,16,2958.27
+SP,presidente prudente,furniture_decor,15,2957.34
+RS,pelotas,bed_bath_table,22,2951.25
+ES,serra,sports_leisure,20,2950.98
+SP,sumare,bed_bath_table,20,2949.31
+MT,cuiaba,computers_accessories,11,2946.56
+MG,belo horizonte,furniture_living_room,11,2946.05
+SP,embu das artes,health_beauty,16,2944.7
+MA,sao luis,cool_stuff,12,2936.96
+SP,osasco,baby,27,2936.59
+PA,ananindeua,computers_accessories,12,2932.31
+PR,curitiba,electronics,43,2931.49
+MG,uberlandia,perfumery,16,2920.2
+PI,teresina,toys,17,2917.26
+SP,aracatuba,furniture_decor,17,2916.36
+MA,sao luis,telephony,28,2914.98
+PR,maringa,auto,11,2913.95
+SP,santo andre,auto,33,2903.41
+SP,valinhos,health_beauty,23,2902.02
+MA,sao luis,watches_gifts,23,2884.09
+SP,mogi das cruzes,computers_accessories,28,2883.15
+PR,londrina,furniture_decor,16,2879.36
+AL,maceio,sports_leisure,21,2872.7
+SE,aracaju,garden_tools,11,2871.92
+SP,taubate,bed_bath_table,30,2866.92
+PE,recife,perfumery,19,2859.45
+MT,cuiaba,watches_gifts,13,2859.44
+PE,recife,housewares,25,2855.26
+GO,anapolis,health_beauty,14,2853.17
+SP,maua,sports_leisure,19,2848.68
+RS,santa maria,housewares,15,2846.31
+RJ,macae,health_beauty,18,2842.31
+SP,sao caetano do sul,health_beauty,23,2842.05
+SC,joinville,watches_gifts,12,2835.59
+SP,bauru,bed_bath_table,24,2835.3
+RJ,nilopolis,watches_gifts,13,2833.58
+SP,sao jose do rio preto,toys,13,2825.55
+SP,diadema,computers_accessories,10,2819.56
+CE,fortaleza,electronics,26,2816.52
+SP,santo andre,cool_stuff,18,2813.53
+RS,canoas,watches_gifts,10,2813.16
+PE,recife,baby,16,2811.79
+RJ,petropolis,bed_bath_table,28,2804.0
+SP,itapetininga,health_beauty,10,2802.58
+SP,sao vicente,sports_leisure,14,2796.68
+SP,braganca paulista,bed_bath_table,17,2795.64
+MG,contagem,toys,23,2794.91
+RS,santa maria,bed_bath_table,19,2794.71
+MT,cuiaba,bed_bath_table,14,2791.47
+MT,cuiaba,sports_leisure,23,2791.25
+ES,cariacica,watches_gifts,10,2786.76
+SP,carapicuiba,watches_gifts,14,2785.67
+RJ,duque de caxias,cool_stuff,14,2783.77
+SP,piracicaba,sports_leisure,29,2783.49
+SP,itapevi,sports_leisure,17,2776.59
+RS,porto alegre,consoles_games,15,2775.28
+SC,blumenau,sports_leisure,18,2771.17
+SP,jundiai,housewares,28,2770.42
+SE,aracaju,furniture_decor,12,2769.08
+SP,taboao da serra,watches_gifts,14,2767.57
+SP,santana de parnaiba,health_beauty,21,2763.23
+SC,sao jose,sports_leisure,14,2759.21
+MA,sao luis,furniture_decor,20,2755.9
+PE,recife,stationery,19,2753.92
+SP,sao carlos,furniture_decor,20,2747.23
+PI,teresina,bed_bath_table,10,2746.16
+PB,joao pessoa,furniture_decor,15,2739.95
+RJ,petropolis,watches_gifts,13,2732.09
+SP,ribeirao preto,baby,15,2731.53
+PR,curitiba,pet_shop,27,2729.95
+SP,praia grande,housewares,19,2717.62
+BA,salvador,stationery,30,2710.34
+SP,suzano,housewares,20,2705.77
+SP,maua,housewares,22,2703.73
+GO,anapolis,sports_leisure,16,2702.86
+SP,sao caetano do sul,furniture_decor,19,2701.98
+MG,montes claros,garden_tools,19,2700.47
+SC,joinville,computers_accessories,23,2698.85
+RS,caxias do sul,bed_bath_table,18,2689.42
+PA,belem,garden_tools,10,2687.5
+SP,santos,pet_shop,17,2684.3
+SP,taubate,watches_gifts,15,2682.41
+RJ,niteroi,office_furniture,13,2681.89
+ES,serra,computers_accessories,26,2680.17
+RS,porto alegre,electronics,43,2679.68
+RS,pelotas,furniture_decor,16,2675.53
+PI,teresina,garden_tools,12,2666.74
+RJ,nova iguacu,computers_accessories,27,2652.46
+SP,barueri,cool_stuff,16,2651.01
+PR,londrina,computers_accessories,23,2650.23
+SP,americana,sports_leisure,21,2641.64
+ES,vitoria,computers_accessories,27,2641.56
+SP,bauru,furniture_decor,17,2636.25
+RJ,niteroi,electronics,23,2633.76
+GO,anapolis,watches_gifts,10,2633.48
+PE,recife,pet_shop,12,2631.2
+SP,paulinia,bed_bath_table,19,2630.02
+DF,brasilia,consoles_games,28,2626.88
+SP,suzano,bed_bath_table,24,2626.12
+SP,praia grande,watches_gifts,20,2609.85
+SP,sao vicente,furniture_decor,14,2608.87
+MA,sao luis,perfumery,15,2607.35
+AM,manaus,computers_accessories,11,2597.28
+SP,taubate,auto,12,2597.12
+SP,suzano,health_beauty,26,2597.11
+ES,cachoeiro de itapemirim,health_beauty,10,2594.95
+BA,vitoria da conquista,health_beauty,15,2594.07
+MG,pouso alegre,sports_leisure,11,2588.61
+MG,betim,sports_leisure,18,2588.31
+RJ,niteroi,telephony,26,2586.05
+MG,contagem,computers_accessories,28,2580.71
+SP,santos,toys,27,2575.57
+PA,belem,office_furniture,10,2570.69
+PA,belem,perfumery,16,2565.38
+PE,recife,garden_tools,15,2560.42
+SP,taubate,furniture_decor,19,2551.37
+SP,campinas,electronics,38,2550.45
+SP,indaiatuba,computers_accessories,11,2542.58
+GO,goiania,telephony,30,2534.51
+RJ,sao goncalo,telephony,17,2527.23
+PR,maringa,sports_leisure,21,2523.16
+SC,joinville,furniture_decor,19,2522.03
+SE,aracaju,auto,14,2521.46
+SC,itajai,watches_gifts,11,2519.86
+SP,campinas,fashion_bags_accessories,31,2514.58
+SP,osasco,garden_tools,25,2510.74
+ES,vitoria,toys,16,2507.95
+RJ,volta redonda,computers_accessories,14,2503.57
+SP,santo andre,stationery,20,2501.85
+RJ,niteroi,fashion_bags_accessories,11,2497.49
+PE,jaboatao dos guararapes,watches_gifts,11,2496.41
+SP,marilia,health_beauty,14,2488.73
+SP,carapicuiba,toys,17,2482.36
+SP,cotia,watches_gifts,16,2482.27
+SP,suzano,watches_gifts,13,2481.82
+MG,divinopolis,watches_gifts,11,2472.69
+SP,franca,watches_gifts,10,2458.09
+RJ,teresopolis,housewares,10,2457.69
+PE,olinda,health_beauty,11,2452.81
+SP,mogi das cruzes,pet_shop,11,2446.19
+MA,sao luis,bed_bath_table,13,2445.11
+SC,joinville,bed_bath_table,22,2444.43
+MG,montes claros,cool_stuff,15,2441.69
+MG,barbacena,health_beauty,10,2438.94
+ES,vila velha,furniture_decor,16,2434.48
+RS,passo fundo,bed_bath_table,15,2433.62
+SP,santo andre,garden_tools,25,2431.16
+RJ,rio de janeiro,food_drink,25,2429.79
+SP,valinhos,bed_bath_table,22,2426.38
+SP,sao caetano do sul,housewares,21,2424.05
+SP,santana de parnaiba,bed_bath_table,17,2414.01
+PR,cascavel,sports_leisure,16,2409.01
+PR,curitiba,consoles_games,14,2408.69
+SP,sao carlos,health_beauty,21,2407.15
+BA,salvador,luggage_accessories,14,2404.73
+SP,santana de parnaiba,computers_accessories,15,2404.19
+SP,guaruja,furniture_decor,19,2402.46
+SP,sao bernardo do campo,small_appliances,10,2400.35
+RJ,petropolis,sports_leisure,16,2400.34
+RJ,campos dos goytacazes,housewares,19,2396.88
+SP,indaiatuba,auto,17,2393.05
+SP,jundiai,auto,19,2384.83
+MG,itajuba,computers_accessories,15,2383.93
+AL,maceio,furniture_decor,14,2380.2
+SP,indaiatuba,perfumery,14,2378.81
+SP,sao bernardo do campo,stationery,24,2372.19
+SP,taubate,housewares,15,2370.94
+SC,itajai,housewares,10,2369.43
+RJ,sao goncalo,furniture_decor,22,2366.18
+SP,guarulhos,luggage_accessories,16,2357.32
+MG,contagem,housewares,22,2356.41
+PI,teresina,cool_stuff,13,2356.05
+SP,campinas,unknown,31,2351.7
+RJ,mage,health_beauty,11,2350.64
+SP,americana,health_beauty,16,2350.29
+MG,juiz de fora,pet_shop,11,2348.31
+SP,taboao da serra,health_beauty,19,2345.26
+SC,florianopolis,perfumery,15,2342.37
+MG,uberlandia,pet_shop,12,2337.28
+RJ,petropolis,furniture_decor,16,2335.57
+BA,feira de santana,computers_accessories,14,2332.57
+SP,sao paulo,fashion_shoes,28,2325.88
+RJ,volta redonda,furniture_decor,20,2324.13
+SP,valinhos,watches_gifts,10,2323.07
+DF,brasilia,audio,16,2322.44
+SP,sao bernardo do campo,fashion_bags_accessories,23,2321.26
+MG,uberlandia,furniture_decor,18,2321.22
+MG,uberlandia,toys,16,2319.56
+RJ,resende,furniture_decor,16,2318.13
+SC,joinville,housewares,19,2316.87
+SP,bauru,housewares,23,2313.22
+SP,sorocaba,garden_tools,23,2310.22
+PE,petrolina,health_beauty,10,2309.7
+RJ,macae,furniture_decor,17,2308.83
+SP,bauru,health_beauty,18,2304.54
+SP,americana,bed_bath_table,19,2302.76
+MG,governador valadares,auto,12,2301.93
+SP,rio claro,sports_leisure,15,2299.69
+RJ,nova friburgo,housewares,11,2299.28
+SP,sao bernardo do campo,unknown,29,2294.97
+RJ,duque de caxias,computers_accessories,15,2288.37
+SP,taubate,computers_accessories,15,2286.65
+PR,londrina,housewares,20,2284.41
+SP,sumare,sports_leisure,10,2284.12
+RJ,rio das ostras,bed_bath_table,14,2281.27
+RS,porto alegre,home_construction,10,2278.54
+RJ,teresopolis,bed_bath_table,15,2278.38
+AL,maceio,computers_accessories,17,2277.44
+SP,piracicaba,garden_tools,16,2274.78
+SP,barueri,baby,10,2272.54
+SP,sorocaba,telephony,24,2264.78
+SP,praia grande,furniture_decor,19,2262.07
+ES,cariacica,health_beauty,13,2259.65
+SP,jandira,bed_bath_table,22,2256.08
+MS,campo grande,baby,11,2254.42
+SP,indaiatuba,watches_gifts,12,2252.65
+SP,araraquara,sports_leisure,18,2247.45
+ES,vila velha,housewares,20,2243.25
+MG,ipatinga,bed_bath_table,17,2237.9
+SC,joinville,cool_stuff,14,2235.89
+SP,sao caetano do sul,cool_stuff,12,2235.71
+MT,cuiaba,toys,14,2231.41
+SP,diadema,housewares,21,2231.32
+RS,porto alegre,pet_shop,15,2228.81
+MT,cuiaba,cool_stuff,13,2227.69
+SP,araraquara,bed_bath_table,23,2225.0
+SP,maua,furniture_decor,24,2224.13
+RJ,campos dos goytacazes,furniture_decor,14,2223.8
+MG,uberaba,bed_bath_table,16,2219.49
+SP,cotia,computers_accessories,16,2218.92
+SP,suzano,sports_leisure,19,2218.57
+PR,ponta grossa,sports_leisure,15,2215.42
+GO,goiania,pet_shop,10,2214.36
+RJ,duque de caxias,furniture_decor,17,2206.65
+MG,juiz de fora,toys,16,2202.12
+SP,itapevi,health_beauty,16,2200.8
+SP,ribeirao preto,cool_stuff,17,2199.3
+ES,vila velha,toys,18,2197.93
+MS,campo grande,watches_gifts,13,2197.72
+RS,canoas,housewares,17,2192.66
+RJ,sao goncalo,computers_accessories,17,2187.59
+SP,itapevi,bed_bath_table,15,2185.68
+RS,caxias do sul,sports_leisure,15,2183.31
+MG,juiz de fora,housewares,18,2182.87
+SP,sao carlos,housewares,13,2181.96
+SC,florianopolis,toys,15,2181.9
+RJ,volta redonda,toys,10,2181.71
+SP,campinas,luggage_accessories,14,2170.37
+CE,fortaleza,stationery,17,2167.61
+PR,maringa,health_beauty,15,2166.72
+BA,feira de santana,sports_leisure,13,2166.39
+SP,sao caetano do sul,perfumery,13,2165.95
+MG,belo horizonte,home_confort,14,2165.4
+MG,contagem,perfumery,14,2165.24
+RS,porto alegre,luggage_accessories,14,2161.06
+GO,anapolis,computers_accessories,11,2160.51
+DF,brasilia,home_appliances,15,2151.69
+ES,serra,toys,17,2141.49
+RJ,sao goncalo,housewares,18,2133.93
+SP,sao jose do rio preto,furniture_decor,14,2133.93
+RJ,macae,sports_leisure,14,2130.95
+SP,sao jose do rio preto,perfumery,12,2127.35
+RJ,belford roxo,bed_bath_table,17,2127.18
+RS,passo fundo,housewares,12,2125.7
+PR,curitiba,unknown,26,2124.42
+SP,aracatuba,sports_leisure,22,2119.24
+SP,santos,perfumery,16,2112.59
+MA,sao luis,fashion_bags_accessories,17,2109.23
+RS,porto alegre,fashion_bags_accessories,15,2106.99
+MG,sete lagoas,sports_leisure,10,2106.49
+SP,franca,health_beauty,15,2104.83
+MG,governador valadares,sports_leisure,11,2104.0
+SP,sao jose do rio preto,garden_tools,15,2103.93
+SP,paulinia,computers_accessories,15,2098.71
+MG,betim,bed_bath_table,18,2093.21
+ES,serra,garden_tools,13,2090.29
+SP,cotia,furniture_decor,17,2086.05
+RS,rio grande,furniture_decor,10,2084.68
+SP,mogi das cruzes,toys,18,2076.97
+SP,carapicuiba,sports_leisure,20,2072.68
+MG,ipatinga,housewares,17,2070.74
+RJ,macae,cool_stuff,15,2067.25
+SC,blumenau,bed_bath_table,13,2066.61
+ES,serra,bed_bath_table,19,2065.48
+ES,vila velha,health_beauty,22,2064.28
+SP,atibaia,bed_bath_table,19,2059.98
+MG,uberlandia,computers_accessories,20,2059.93
+SP,sao jose dos campos,baby,17,2056.47
+SP,americana,computers_accessories,15,2053.21
+SP,hortolandia,watches_gifts,12,2052.69
+PA,belem,telephony,23,2052.38
+AM,manaus,health_beauty,13,2051.5
+PI,teresina,telephony,19,2050.97
+RJ,barra mansa,health_beauty,15,2048.05
+SP,mogi-guacu,health_beauty,11,2042.8
+MT,cuiaba,housewares,13,2042.79
+SC,criciuma,bed_bath_table,11,2042.66
+SP,marilia,bed_bath_table,20,2041.69
+SP,hortolandia,health_beauty,14,2041.24
+SP,jundiai,consoles_games,11,2040.53
+SP,sumare,health_beauty,15,2039.77
+RS,santa maria,computers_accessories,15,2039.05
+SP,valinhos,computers_accessories,17,2036.93
+SP,taboao da serra,furniture_decor,18,2036.54
+SP,jacarei,furniture_decor,20,2033.56
+RJ,niteroi,small_appliances,11,2031.05
+PR,foz do iguacu,sports_leisure,12,2029.43
+PE,olinda,sports_leisure,14,2029.28
+SP,guarulhos,pet_shop,17,2027.23
+SP,guaruja,sports_leisure,23,2022.02
+SP,praia grande,computers_accessories,19,2021.34
+MG,ipatinga,sports_leisure,16,2020.82
+RJ,rio de janeiro,industry_commerce_and_business,10,2017.47
+ES,serra,cool_stuff,11,2016.72
+MG,sete lagoas,bed_bath_table,13,2014.97
+RJ,duque de caxias,sports_leisure,12,2012.76
+RJ,nova iguacu,toys,11,2011.31
+SP,carapicuiba,health_beauty,23,2010.98
+RJ,cabo frio,bed_bath_table,17,2008.91
+MG,governador valadares,housewares,15,2002.78
+SC,blumenau,furniture_decor,11,2002.38
+SP,maua,perfumery,11,2001.15
+RJ,rio de janeiro,food,22,2000.51
+MG,uberlandia,luggage_accessories,15,2000.49
+CE,fortaleza,baby,11,1991.94
+SP,sao jose dos campos,telephony,31,1991.04
+CE,fortaleza,unknown,13,1990.52
+MG,caratinga,bed_bath_table,11,1984.07
+PA,belem,electronics,15,1981.77
+MG,governador valadares,computers_accessories,14,1981.13
+MG,paracatu,bed_bath_table,11,1977.04
+SP,sorocaba,toys,24,1970.46
+MG,juiz de fora,auto,12,1965.8
+SP,taboao da serra,computers_accessories,19,1962.33
+ES,serra,auto,11,1957.9
+SC,chapeco,computers_accessories,13,1953.87
+RS,santa maria,furniture_decor,14,1947.29
+AM,manaus,watches_gifts,10,1944.31
+SP,santo andre,pet_shop,17,1941.38
+SP,itaquaquecetuba,watches_gifts,13,1939.43
+SC,sao jose,housewares,11,1936.49
+RS,pelotas,garden_tools,14,1934.87
+RJ,sao joao de meriti,computers_accessories,14,1934.2
+MA,sao luis,housewares,11,1928.45
+RJ,rio de janeiro,art,17,1920.86
+PR,ponta grossa,health_beauty,14,1901.85
+SC,sao jose,health_beauty,14,1897.81
+SP,braganca paulista,health_beauty,19,1896.94
+SP,sao jose do rio preto,computers_accessories,20,1896.1
+SP,itaquaquecetuba,health_beauty,20,1893.88
+SC,blumenau,computers_accessories,11,1882.14
+PR,cascavel,cool_stuff,14,1881.62
+MG,araguari,health_beauty,11,1881.44
+AL,maceio,perfumery,10,1880.47
+SP,santos,luggage_accessories,10,1873.43
+MG,contagem,garden_tools,17,1871.5
+RJ,cabo frio,sports_leisure,10,1866.39
+AL,maceio,telephony,13,1864.64
+MG,ribeirao das neves,health_beauty,10,1863.19
+RS,caxias do sul,health_beauty,17,1862.51
+ES,serra,health_beauty,13,1858.64
+RJ,nova friburgo,toys,13,1856.81
+RJ,rio de janeiro,books_general_interest,26,1856.34
+MG,pouso alegre,bed_bath_table,13,1855.36
+ES,serra,furniture_decor,17,1855.08
+SP,sorocaba,stationery,18,1854.61
+SE,aracaju,sports_leisure,19,1847.15
+SP,jacarei,health_beauty,18,1846.82
+MG,pouso alegre,baby,10,1846.08
+SP,jundiai,unknown,18,1843.68
+SP,hortolandia,bed_bath_table,16,1841.26
+SP,cotia,sports_leisure,16,1841.0
+MG,betim,computers_accessories,14,1840.08
+SP,marilia,housewares,16,1834.84
+RS,canoas,stationery,12,1833.41
+CE,fortaleza,fashion_bags_accessories,14,1833.04
+RJ,duque de caxias,auto,10,1831.98
+PR,cascavel,health_beauty,15,1828.76
+SC,palhoca,sports_leisure,13,1819.62
+SP,americana,housewares,15,1816.97
+SP,carapicuiba,auto,17,1814.59
+RS,canoas,garden_tools,10,1814.54
+MG,extrema,bed_bath_table,10,1812.22
+RS,rio grande,bed_bath_table,14,1809.27
+SP,osasco,stationery,19,1808.61
+SP,praia grande,auto,13,1804.01
+RJ,rio de janeiro,construction_tools_safety,11,1802.69
+RJ,barra mansa,bed_bath_table,17,1801.44
+ES,cariacica,furniture_decor,10,1795.51
+SP,bauru,toys,15,1795.35
+RN,natal,housewares,14,1793.39
+PR,foz do iguacu,bed_bath_table,13,1793.26
+PB,joao pessoa,stationery,11,1792.4
+SP,campinas,home_confort,10,1791.62
+RS,novo hamburgo,sports_leisure,12,1789.75
+ES,vitoria,electronics,18,1785.18
+SP,carapicuiba,furniture_decor,15,1778.57
+SP,guaruja,housewares,13,1772.02
+SP,jacarei,housewares,13,1769.97
+RJ,campos dos goytacazes,garden_tools,13,1769.77
+SC,florianopolis,telephony,14,1765.43
+RJ,duque de caxias,health_beauty,18,1763.45
+SP,diadema,furniture_decor,16,1763.07
+SC,balneario camboriu,furniture_decor,11,1762.57
+ES,vitoria,auto,10,1760.02
+SP,sao jose do rio preto,cool_stuff,12,1758.87
+SP,sao bernardo do campo,pet_shop,13,1756.51
+SP,guarulhos,unknown,27,1751.98
+SP,guaruja,computers_accessories,10,1748.58
+SE,aracaju,watches_gifts,11,1744.79
+SP,indaiatuba,housewares,16,1737.83
+RJ,niteroi,pet_shop,10,1734.67
+AM,manaus,sports_leisure,12,1732.14
+TO,palmas,watches_gifts,10,1729.18
+MG,patos de minas,bed_bath_table,12,1724.04
+RS,caxias do sul,cool_stuff,11,1723.85
+SP,lorena,sports_leisure,15,1722.83
+SP,presidente prudente,sports_leisure,12,1722.52
+SC,florianopolis,stationery,13,1718.64
+SP,franco da rocha,bed_bath_table,15,1718.64
+SP,jau,health_beauty,14,1717.76
+SP,francisco morato,bed_bath_table,12,1714.59
+MG,barbacena,bed_bath_table,12,1705.78
+MG,uberlandia,cool_stuff,10,1703.58
+SC,blumenau,health_beauty,14,1702.39
+MT,cuiaba,telephony,16,1700.54
+SP,sao paulo,fashion_male_clothing,18,1700.53
+RJ,campos dos goytacazes,perfumery,11,1692.84
+MG,uberaba,cool_stuff,12,1690.77
+PR,londrina,sports_leisure,16,1690.49
+SP,botucatu,bed_bath_table,17,1688.78
+RN,natal,computers_accessories,10,1677.53
+SP,jacarei,bed_bath_table,14,1673.63
+RS,pelotas,watches_gifts,13,1673.4
+SP,franca,computers_accessories,12,1672.74
+ES,guarapari,bed_bath_table,12,1672.18
+SP,botucatu,computers_accessories,10,1671.9
+ES,colatina,health_beauty,10,1668.5
+SC,sao jose,bed_bath_table,13,1667.99
+SP,atibaia,health_beauty,10,1664.6
+ES,vitoria,perfumery,11,1663.83
+SP,barueri,garden_tools,15,1660.84
+PE,jaboatao dos guararapes,computers_accessories,10,1659.78
+SP,embu das artes,auto,12,1657.0
+RJ,nova iguacu,electronics,18,1656.63
+SP,itu,bed_bath_table,16,1655.47
+MG,ribeirao das neves,bed_bath_table,16,1653.3
+ES,cachoeiro de itapemirim,bed_bath_table,12,1652.47
+ES,vitoria,cool_stuff,10,1652.05
+RJ,nova friburgo,sports_leisure,11,1648.28
+SC,chapeco,furniture_decor,13,1647.59
+SP,barueri,auto,19,1647.26
+SP,presidente prudente,health_beauty,11,1646.19
+MG,contagem,pet_shop,14,1643.74
+RJ,macae,telephony,10,1642.88
+RS,canoas,bed_bath_table,16,1642.57
+SP,sumare,furniture_decor,16,1641.56
+MG,pouso alegre,computers_accessories,11,1634.04
+RJ,niteroi,construction_tools_construction,10,1633.58
+SP,embu das artes,cool_stuff,11,1633.43
+SP,carapicuiba,perfumery,11,1629.97
+MG,montes claros,bed_bath_table,10,1628.89
+SP,paulinia,furniture_decor,11,1624.65
+SP,santana de parnaiba,housewares,16,1620.36
+MG,vicosa,bed_bath_table,11,1618.36
+SP,carapicuiba,cool_stuff,11,1618.26
+SP,diadema,cool_stuff,11,1617.08
+SP,americana,toys,11,1612.82
+SP,sao vicente,health_beauty,12,1612.17
+RN,natal,furniture_decor,13,1612.12
+RJ,nova iguacu,stationery,10,1609.2
+SP,presidente prudente,computers_accessories,11,1603.1
+ES,vila velha,auto,13,1602.51
+MG,betim,auto,13,1601.94
+SP,barueri,perfumery,13,1597.93
+PB,joao pessoa,bed_bath_table,11,1596.81
+PR,curitiba,luggage_accessories,12,1596.15
+MG,belo horizonte,audio,11,1595.68
+SP,jaguariuna,bed_bath_table,11,1591.87
+DF,brasilia,books_general_interest,17,1591.07
+SP,praia grande,garden_tools,10,1589.47
+SP,sao paulo,books_imported,20,1588.21
+RS,porto alegre,home_appliances,11,1587.61
+SP,sao joao da boa vista,bed_bath_table,10,1587.48
+RJ,teresopolis,furniture_decor,11,1587.38
+SP,maua,computers_accessories,17,1583.58
+SP,sorocaba,consoles_games,11,1582.65
+PI,teresina,electronics,13,1582.15
+RS,rio grande,sports_leisure,11,1581.53
+RS,novo hamburgo,furniture_decor,13,1580.02
+MS,campo grande,pet_shop,10,1579.64
+SP,paulinia,health_beauty,10,1577.54
+SP,maua,telephony,13,1572.43
+SP,sao caetano do sul,watches_gifts,12,1571.29
+SP,limeira,furniture_decor,18,1571.09
+SP,peruibe,bed_bath_table,10,1569.74
+MG,patos de minas,health_beauty,14,1560.73
+SP,taubate,sports_leisure,13,1559.07
+RJ,nilopolis,bed_bath_table,14,1558.68
+SP,carapicuiba,computers_accessories,16,1554.11
+RJ,volta redonda,sports_leisure,13,1548.42
+PB,joao pessoa,housewares,10,1546.41
+MG,sete lagoas,computers_accessories,12,1540.27
+PE,recife,fashion_bags_accessories,13,1539.05
+GO,goiania,stationery,12,1533.05
+PR,sao jose dos pinhais,toys,10,1530.18
+SC,palhoca,furniture_decor,11,1526.33
+MG,uberlandia,garden_tools,11,1526.16
+RS,passo fundo,computers_accessories,11,1524.41
+MG,juiz de fora,telephony,21,1523.12
+SP,piracicaba,cool_stuff,11,1519.62
+SP,carapicuiba,baby,11,1516.97
+MG,contagem,cool_stuff,11,1516.58
+SP,itatiba,housewares,11,1511.6
+RJ,rio de janeiro,market_place,16,1510.19
+RS,pelotas,health_beauty,16,1507.71
+GO,aparecida de goiania,bed_bath_table,11,1506.04
+SP,mogi-guacu,bed_bath_table,12,1504.83
+SP,cotia,perfumery,11,1503.01
+MG,pocos de caldas,computers_accessories,11,1502.72
+SP,rio claro,furniture_decor,12,1500.77
+SP,diadema,perfumery,16,1498.22
+SP,marilia,computers_accessories,11,1496.76
+SP,birigui,health_beauty,10,1495.71
+RJ,duque de caxias,housewares,13,1495.61
+SP,santo andre,fashion_bags_accessories,20,1495.24
+RS,santa maria,garden_tools,11,1492.8
+SP,sao bernardo do campo,consoles_games,14,1490.09
+ES,cariacica,bed_bath_table,11,1486.35
+RJ,volta redonda,housewares,13,1486.26
+MA,sao luis,toys,10,1485.88
+SP,mogi das cruzes,perfumery,11,1485.78
+SP,sao paulo,fashion_underwear_beach,19,1481.3
+SP,itaquaquecetuba,bed_bath_table,14,1478.49
+RJ,macae,housewares,11,1478.31
+RJ,campos dos goytacazes,cool_stuff,10,1476.98
+RS,novo hamburgo,health_beauty,10,1476.95
+ES,vila velha,garden_tools,14,1476.94
+MG,uberlandia,baby,11,1474.26
+SC,itajai,health_beauty,12,1472.16
+SP,jacarei,cool_stuff,10,1469.23
+SC,itajai,furniture_decor,11,1467.65
+SP,guarulhos,electronics,25,1466.03
+SC,joinville,sports_leisure,15,1465.08
+SP,carapicuiba,housewares,22,1463.53
+MG,pocos de caldas,housewares,10,1459.33
+SC,sao jose,computers_accessories,14,1456.47
+RJ,rio de janeiro,signaling_and_security,10,1450.18
+MA,sao luis,stationery,11,1449.89
+SP,osasco,pet_shop,13,1448.75
+RJ,rio de janeiro,books_technical,18,1447.2
+SP,santo andre,consoles_games,11,1446.27
+ES,vila velha,stationery,10,1441.65
+SP,jacarei,toys,13,1441.44
+MG,nova lima,computers_accessories,10,1440.37
+SP,varzea paulista,bed_bath_table,11,1436.67
+ES,cariacica,computers_accessories,12,1436.23
+SP,sao bernardo do campo,luggage_accessories,10,1434.24
+MG,montes claros,computers_accessories,10,1433.96
+SC,blumenau,watches_gifts,10,1428.73
+BA,salvador,consoles_games,10,1427.73
+SP,guarulhos,consoles_games,16,1423.83
+SP,santa barbara d'oeste,bed_bath_table,11,1423.45
+SP,taboao da serra,toys,13,1421.62
+SP,jundiai,stationery,13,1413.57
+SC,blumenau,baby,12,1412.65
+SP,osasco,telephony,17,1408.08
+SP,sao jose dos campos,electronics,17,1400.08
+SP,valinhos,sports_leisure,14,1398.76
+SP,suzano,perfumery,10,1398.19
+SP,sao jose dos campos,unknown,17,1391.26
+SP,sao carlos,toys,12,1389.42
+RN,natal,toys,12,1388.68
+PR,sao jose dos pinhais,furniture_decor,14,1387.14
+SP,vinhedo,sports_leisure,10,1383.61
+PR,sao jose dos pinhais,bed_bath_table,11,1382.09
+RJ,volta redonda,health_beauty,13,1381.53
+SP,taboao da serra,perfumery,11,1375.01
+SP,jacarei,auto,10,1372.74
+SP,santa barbara d'oeste,computers_accessories,10,1370.17
+RS,canoas,computers_accessories,11,1364.04
+MG,juiz de fora,baby,13,1363.01
+RJ,resende,bed_bath_table,11,1362.18
+SC,florianopolis,fashion_bags_accessories,10,1360.21
+RJ,mage,bed_bath_table,13,1358.21
+SP,suzano,computers_accessories,14,1357.37
+SP,caieiras,bed_bath_table,14,1356.79
+MG,contagem,fashion_bags_accessories,12,1356.34
+RS,caxias do sul,housewares,13,1353.42
+MG,ituiutaba,computers_accessories,11,1351.55
+SP,valinhos,housewares,12,1345.76
+SP,franco da rocha,furniture_decor,14,1345.57
+AL,maceio,bed_bath_table,11,1344.94
+RJ,nova friburgo,computers_accessories,13,1343.84
+SP,pindamonhangaba,health_beauty,14,1343.25
+RJ,duque de caxias,toys,10,1340.88
+PA,belem,fashion_bags_accessories,11,1338.68
+SP,sao vicente,auto,12,1334.85
+SP,sao caetano do sul,toys,12,1333.48
+SP,carapicuiba,garden_tools,11,1332.77
+SP,limeira,housewares,14,1331.42
+SP,itanhaem,sports_leisure,10,1330.77
+DF,brasilia,construction_tools_construction,10,1327.74
+MG,uberlandia,auto,10,1326.05
+RJ,marica,sports_leisure,10,1325.0
+RJ,nova iguacu,perfumery,11,1318.67
+SP,cubatao,health_beauty,12,1311.44
+BA,feira de santana,toys,15,1310.44
+ES,serra,telephony,15,1307.53
+SP,sao paulo,cine_photo,14,1307.34
+PR,londrina,garden_tools,10,1305.98
+SP,ribeirao preto,pet_shop,11,1305.7
+RJ,nova iguacu,telephony,12,1305.51
+GO,aparecida de goiania,furniture_decor,10,1305.05
+SP,osasco,fashion_bags_accessories,18,1303.54
+PR,maringa,cool_stuff,10,1297.72
+RJ,campos dos goytacazes,sports_leisure,10,1297.67
+SP,cajamar,bed_bath_table,10,1295.37
+SC,blumenau,housewares,14,1295.22
+PE,recife,electronics,16,1293.36
+MG,ipatinga,furniture_decor,11,1291.5
+MG,pouso alegre,housewares,11,1289.92
+SP,sao caetano do sul,auto,13,1286.54
+SP,barueri,telephony,17,1279.28
+SC,florianopolis,unknown,16,1278.89
+RJ,marica,health_beauty,14,1272.94
+SP,diadema,sports_leisure,16,1266.3
+SC,sao jose,furniture_decor,13,1265.47
+RJ,petropolis,health_beauty,13,1264.52
+ES,serra,electronics,13,1262.75
+RJ,resende,sports_leisure,10,1261.86
+SP,rio claro,computers_accessories,10,1260.38
+SP,itatiba,sports_leisure,12,1260.1
+RJ,volta redonda,unknown,12,1259.72
+RS,pelotas,computers_accessories,13,1256.61
+SP,indaiatuba,toys,10,1254.25
+SP,sao jose dos campos,stationery,14,1250.85
+RJ,belford roxo,health_beauty,10,1248.31
+SC,florianopolis,electronics,14,1238.99
+SP,praia grande,perfumery,12,1238.29
+SP,piracicaba,toys,10,1238.21
+SP,ribeirao preto,fashion_bags_accessories,10,1237.34
+SP,taboao da serra,telephony,11,1236.95
+PR,sao jose dos pinhais,sports_leisure,10,1236.32
+SP,embu das artes,computers_accessories,12,1235.62
+PA,belem,toys,10,1235.38
+SP,americana,furniture_decor,11,1234.46
+SP,sao carlos,perfumery,11,1228.96
+RJ,araruama,bed_bath_table,12,1228.93
+MG,itajuba,bed_bath_table,10,1227.76
+SP,marilia,furniture_decor,10,1225.47
+RS,santa maria,sports_leisure,13,1224.47
+RJ,marica,housewares,11,1222.64
+RJ,angra dos reis,bed_bath_table,10,1221.43
+RJ,duque de caxias,baby,11,1220.13
+SP,francisco morato,watches_gifts,10,1219.9
+RJ,nova iguacu,housewares,12,1219.16
+SP,aracatuba,bed_bath_table,10,1217.9
+SP,cotia,toys,10,1216.02
+MG,contagem,baby,13,1215.94
+SP,franca,auto,10,1214.05
+RJ,nova iguacu,auto,10,1206.22
+SP,francisco morato,sports_leisure,12,1206.2
+SP,embu das artes,baby,11,1203.87
+SP,santo andre,unknown,15,1203.77
+SP,santo andre,telephony,21,1203.37
+SP,osasco,electronics,16,1202.92
+SP,atibaia,auto,10,1199.68
+MG,betim,furniture_decor,11,1197.95
+SE,aracaju,telephony,18,1195.94
+SP,mogi mirim,bed_bath_table,13,1193.36
+SP,itapecerica da serra,sports_leisure,11,1188.2
+SP,sao jose dos campos,fashion_bags_accessories,12,1187.96
+SP,cotia,auto,13,1180.02
+RJ,volta redonda,perfumery,10,1179.46
+SP,aracatuba,computers_accessories,10,1178.54
+SP,santana de parnaiba,telephony,12,1176.3
+SP,ribeirao preto,auto,12,1174.45
+SP,rio claro,health_beauty,12,1167.45
+PA,belem,stationery,11,1165.29
+SP,sao bernardo do campo,electronics,15,1162.43
+RS,sao leopoldo,furniture_decor,11,1161.78
+SP,taboao da serra,housewares,15,1159.45
+SP,taubate,garden_tools,10,1150.92
+SP,ribeirao pires,computers_accessories,10,1141.06
+SP,sumare,computers_accessories,10,1139.36
+MG,lagoa santa,housewares,10,1137.94
+SP,itu,sports_leisure,13,1137.85
+SP,atibaia,housewares,10,1134.0
+PR,maringa,baby,11,1129.87
+SP,cotia,health_beauty,16,1129.59
+MG,uberaba,garden_tools,11,1126.8
+SP,itu,health_beauty,12,1124.95
+MG,uberaba,auto,10,1117.53
+RJ,sao goncalo,auto,12,1115.18
+PE,olinda,telephony,10,1114.42
+SP,santana de parnaiba,furniture_decor,12,1112.3
+SP,presidente prudente,auto,11,1111.65
+SP,catanduva,bed_bath_table,13,1111.0
+MG,ipatinga,garden_tools,10,1109.29
+RJ,rio das ostras,sports_leisure,11,1108.1
+SP,maua,baby,12,1107.89
+RJ,sao goncalo,baby,11,1099.57
+RN,natal,books_general_interest,11,1092.36
+SP,maua,toys,10,1086.22
+SP,marilia,garden_tools,12,1081.58
+SP,limeira,health_beauty,12,1080.06
+SP,suzano,furniture_decor,10,1069.98
+RJ,campos dos goytacazes,toys,10,1067.54
+SP,santa barbara d'oeste,sports_leisure,10,1064.49
+SP,barueri,fashion_bags_accessories,10,1064.22
+SP,salto,sports_leisure,11,1061.41
+RJ,marica,bed_bath_table,10,1050.5
+RJ,volta redonda,baby,10,1047.21
+SP,sumare,housewares,10,1041.13
+MS,campo grande,telephony,12,1037.35
+RS,viamao,bed_bath_table,10,1036.38
+SP,santo andre,electronics,18,1032.56
+SP,barueri,stationery,10,1030.0
+ES,serra,perfumery,10,1027.75
+ES,vila velha,telephony,12,1022.62
+SP,embu das artes,bed_bath_table,13,1021.73
+MG,divinopolis,housewares,12,1021.72
+SP,bauru,garden_tools,11,1020.78
+SP,guarulhos,fashion_bags_accessories,12,1018.57
+RJ,niteroi,unknown,15,1016.11
+AM,manaus,telephony,12,1015.85
+PR,ponta grossa,garden_tools,10,1011.27
+SP,franca,sports_leisure,10,1011.17
+SP,sao jose dos campos,pet_shop,10,1010.01
+SP,ferraz de vasconcelos,sports_leisure,13,1006.76
+MS,campo grande,perfumery,12,1002.73
+SP,suzano,baby,10,1001.97
+SP,santos,telephony,16,1000.91
+SP,embu das artes,furniture_decor,10,1000.02
+RJ,belford roxo,sports_leisure,10,996.11
+RS,rio grande,housewares,10,993.44
+SP,ribeirao pires,bed_bath_table,10,987.13
+SP,santos,electronics,23,978.14
+SP,valinhos,toys,10,974.02
+MG,governador valadares,bed_bath_table,12,966.28
+SP,louveira,bed_bath_table,10,951.47
+SP,sao vicente,computers_accessories,11,950.72
+SP,carapicuiba,telephony,16,941.56
+PB,joao pessoa,telephony,12,938.47
+MG,montes claros,sports_leisure,12,922.09
+BA,feira de santana,telephony,10,916.37
+MG,sete lagoas,health_beauty,10,907.02
+MG,belo horizonte,home_appliances,18,904.2
+SP,santos,unknown,14,895.32
+SP,itapevi,furniture_decor,10,889.26
+SP,guarulhos,home_appliances,12,888.96
+RJ,duque de caxias,unknown,12,886.23
+RJ,nova iguacu,fashion_bags_accessories,10,885.88
+RJ,sao goncalo,stationery,10,880.0
+SP,sorocaba,unknown,16,870.24
+PR,maringa,telephony,20,865.7
+SP,santa barbara d'oeste,health_beauty,11,862.02
+BA,salvador,home_appliances,12,861.9
+SP,piracicaba,electronics,16,851.53
+SC,sao jose,telephony,11,849.41
+SP,campinas,food,10,842.04
+SP,cubatao,bed_bath_table,10,836.95
+MG,belo horizonte,fashion_shoes,11,836.7
+SP,sao paulo,fashio_female_clothing,10,832.23
+PR,londrina,unknown,10,826.9
+SC,joinville,electronics,13,821.18
+SP,jundiai,telephony,16,813.82
+SP,braganca paulista,housewares,11,809.66
+MG,uberlandia,telephony,12,809.62
+MG,belo horizonte,books_general_interest,11,806.68
+SP,guaruja,telephony,10,789.57
+MG,contagem,electronics,12,780.85
+SP,barueri,electronics,12,757.53
+SP,praia grande,stationery,11,755.39
+SP,americana,telephony,13,755.26
+SP,jundiai,fashion_bags_accessories,11,726.9
+SP,diadema,telephony,10,722.46
+PR,maringa,unknown,10,720.17
+SP,poa,health_beauty,10,671.28
+AL,maceio,electronics,11,653.48
+SP,ferraz de vasconcelos,health_beauty,10,652.58
+ES,vila velha,electronics,10,641.54
+MG,contagem,unknown,11,628.94
+SP,santos,fashion_bags_accessories,11,628.42
+SP,diadema,baby,10,621.75
+SP,ribeirao preto,telephony,12,609.74
+MG,belo horizonte,food,10,599.92
+SP,osasco,consoles_games,11,593.25
+RJ,sao goncalo,electronics,10,580.05
+SP,barueri,unknown,10,578.09
+SP,sorocaba,electronics,16,575.13
+RJ,rio de janeiro,dvds_blu_ray,10,573.33
+SP,bauru,telephony,10,549.12
+SP,piracicaba,auto,10,535.92
+SP,sao jose do rio preto,telephony,13,535.62
+RN,parnamirim,books_general_interest,10,464.68
+GO,goiania,electronics,12,455.48
+MS,campo grande,unknown,10,429.39
+SP,jacarei,telephony,10,424.55
+SP,itaquaquecetuba,telephony,10,351.14
