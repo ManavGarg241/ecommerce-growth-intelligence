@@ -4,11 +4,6 @@ End-to-end analytics project that simulates a category analyst workflow using th
 
 🔗 **Live Dashboard:** [ecommerce-growth-intelligence.app](https://ecommerce-growth-intelligence.streamlit.app/)
 
-## Screenshots
-
-![Home Page](screenshots/Home.png)
-![Category Performance Overview](screenshots/Category Performance Overview.png)
-
 ---
 
 ## Key Insights Uncovered
