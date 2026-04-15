@@ -8,11 +8,11 @@ End-to-end analytics project that simulates a category analyst workflow using th
 
 ## Key Insights Uncovered
 
-- Top 3 categories drive **X%** of total GMV
-- Cohort analysis revealed **X%** of customers never reorder — highlighting single-purchase behavior as a key business risk
-- SARIMA demand forecast achieved **<X% MAPE** on a held-out 12-week test set
-- RFM segmentation identified **~X%** At-Risk Champions as the highest-value reactivation target
-- Strongest demand concentration in **[state/city]**, with **[category]** showing highest MoM growth
+- Top 3 categories drive **40.4%** of total GMV
+- Cohort analysis revealed **89.8%** of customers never reorder — highlighting single-purchase behavior as a key business risk
+- SARIMA demand forecast achieved **<297.4% MAPE** on a held-out 12-week test set
+- RFM segmentation identified **~23.4%** At-Risk Champions as the highest-value reactivation target
+- Strongest demand concentration in **[São Paulo (SP)]**, with **[Health & Beauty]** showing highest MoM growth
 
 ---
 
