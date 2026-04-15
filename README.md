@@ -2,7 +2,7 @@
 
 End-to-end analytics project that simulates a category analyst workflow using the Olist Brazilian E-Commerce dataset. Covers SQL data engineering, business insight generation, cohort & RFM analysis, demand forecasting, and an interactive multi-page dashboard.
 
-🔗 **Live Dashboard:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+🔗 **Live Dashboard:** [your-app-name.streamlit.app](https://ecommerce-growth-intelligence.streamlit.app/)
 
 ![Dashboard Screenshot](reports/screenshot.png)
 
